@@ -1,4 +1,4 @@
-# calc2
+# Eco Calculator
 
 A new Flutter project.
 
